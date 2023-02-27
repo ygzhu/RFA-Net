@@ -23,7 +23,7 @@ IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 ## Prerequisites
 
 
-Please refer to the requirement.txt
+Please refer to the environment.txt
 
 ## Build
 ```
